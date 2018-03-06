@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="fontawesomefx-8.1">
+    <CLASSES>
+      <root url="jar://C:/Program Files (x86)/Oracle/JavaFX Scene Builder 2.0/app/fontawesomefx-8.1.jar!/" />
+      <root url="jar://C:/Program Files (x86)/Oracle/JavaFX Scene Builder 2.0/app/controlsfx-8.40.14/controlsfx-8.40.14.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
